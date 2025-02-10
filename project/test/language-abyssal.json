@@ -1,0 +1,11 @@
+{
+    "index": "abyssal",
+    "name": "Abyssal",
+    "type": "Exotic",
+    "typical_speakers": [
+        "Demons"
+    ],
+    "script": "Infernal",
+    "url": "/api/languages/abyssal",
+    "updated_at": "2025-01-21T19:55:59.341Z"
+}
